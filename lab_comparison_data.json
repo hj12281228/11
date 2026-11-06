@@ -1,0 +1,147 @@
+{
+  "DIML": {
+    "name": "연세대학교 디지털영상미디어 연구실 (DIML)",
+    "professor": "손광훈 교수",
+    "department": "전기전자공학부",
+    "domain": "Computer Vision & Deep Learning",
+    "metrics": {
+      "top_tier": {
+        "title": "탑티어 논문 비중 및 건수",
+        "question": "유명한 학회/저널에 논문을 자주 내는가?",
+        "count": 33,
+        "total": 67,
+        "ratio": 49.3,
+        "detail": "최근 5년 발표 논문 중 CVPR, ICCV, ECCV, IEEE TPAMI 등 탑티어 비중"
+      },
+      "industry_collab": {
+        "title": "산학 / 외부 협업 비율",
+        "question": "기업 과제로 바쁜가, 학술 연구 중심인가?",
+        "external_collab_ratio": 76.1,
+        "industry_collab_ratio": 23.9,
+        "partners": [
+          "NAVER",
+          "LG전자",
+          "현대자동차",
+          "삼성전자"
+        ],
+        "detail": "학교 밖 외부 기관 공저 76%(51편), 기업 공저 24%(16편)"
+      },
+      "career_path": {
+        "title": "졸업 후 진로",
+        "question": "선배들은 졸업 후 어디로 가는가?",
+        "industry_ratio": 75,
+        "academia_ratio": 25,
+        "destinations": [
+          "삼성전자 종합기술원",
+          "네이버 클로바",
+          "LG AI연구원",
+          "현대자동차 R&D"
+        ],
+        "detail": "대기업 연구소 및 IT 선도기업 진출 비중 우세"
+      },
+      "interdisciplinary": {
+        "title": "학제 간 융합도",
+        "question": "타 전공 출신도 적응할 수 있는가? 연구 범위가 넓은가?",
+        "score_label": "높음 (다분야 융합)",
+        "fields": [
+          "전자공학",
+          "인공지능",
+          "멀티미디어 신호처리",
+          "자율주행"
+        ],
+        "detail": "하드웨어/신호처리 베이스에서 AI/컴퓨터비전으로 확장된 융합적 연구"
+      },
+      "lab_scale": {
+        "title": "연구실 규모 및 사수 환경",
+        "question": "연구실 안에 배울 선배가 몇 명인가?",
+        "phd_count": 8,
+        "ms_count": 14,
+        "postdoc_count": 1,
+        "mentoring_type": "유닛(Unit) 사수-부사수 협업 체계",
+        "detail": "박사 선배 층이 두터워 신입생 인수인계 및 서브팀 지도가 체계적"
+      }
+    },
+    "visual_brief": {
+      "summary": "방대한 산학 과제(현대차, 네이버 등) 네트워크를 기반으로 실무형 컴퓨터비전 시스템을 다루는 대형 연구실",
+      "student_fit": "기업 취업 및 대규모 산학 R&D 실무 경험을 중시하는 학생에게 적합"
+    }
+  },
+  "CVLab": {
+    "name": "연세대학교 컴퓨터비전 연구실 (CV Lab)",
+    "professor": "함범섭 교수",
+    "department": "인공지능학과 / 전기전자공학부",
+    "domain": "Visual AI & Deep Representation",
+    "metrics": {
+      "top_tier": {
+        "title": "탑티어 논문 비중 및 건수",
+        "question": "유명한 학회/저널에 논문을 자주 내는가?",
+        "count": 24,
+        "total": 30,
+        "ratio": 80.0,
+        "detail": "논문 대다수(80%)가 CVPR, ICCV, NeurIPS 등 최상위 학회에 집중"
+      },
+      "industry_collab": {
+        "title": "산학 / 외부 협업 비율",
+        "question": "기업 과제로 바쁜가, 학술 연구 중심인가?",
+        "external_collab_ratio": 30.0,
+        "industry_collab_ratio": 23.3,
+        "partners": [
+          "삼성전자",
+          "현대자동차"
+        ],
+        "detail": "외부 의존도보다는 연구실 자체 순수 학술 역량 및 메이저 학회 타깃 몰입"
+      },
+      "career_path": {
+        "title": "졸업 후 진로",
+        "question": "선배들은 졸업 후 어디로 가는가?",
+        "industry_ratio": 45,
+        "academia_ratio": 55,
+        "destinations": [
+          "해외 박사후연구원(Post-Doc)",
+          "국내외 대학 교수",
+          "정부출연연구소",
+          "글로벌 테크기업"
+        ],
+        "detail": "박사 진학 및 학계/순수 연구진 진출 비율이 상대적으로 높음"
+      },
+      "interdisciplinary": {
+        "title": "학제 간 융합도",
+        "question": "타 전공 출신도 적응할 수 있는가? 연구 범위가 넓은가?",
+        "score_label": "집중형 (코어 비전)",
+        "fields": [
+          "컴퓨터비전",
+          "딥러닝 코어 알고리즘",
+          "생성 모델"
+        ],
+        "detail": "비전 및 기계학습 원천 기술에 고도로 집중된 전문적 연구"
+      },
+      "lab_scale": {
+        "title": "연구실 규모 및 사수 환경",
+        "question": "연구실 안에 배울 선배가 몇 명인가?",
+        "phd_count": 4,
+        "ms_count": 6,
+        "postdoc_count": 0,
+        "mentoring_type": "소수 정예 교수 직접 밀착 지도형",
+        "detail": "규모는 작으나 교수님의 직접적인 1:1 디스커션 및 빠른 피드백 중심"
+      }
+    },
+    "visual_brief": {
+      "summary": "발표 논문의 80%가 메이저 탑티어 학회에 게재되는 학술 성과 중심의 소수 정예 연구실",
+      "student_fit": "박사 과정 진학 및 최상위 학회 1저자 논문 게재를 목표로 하는 학술 몰입형 학생에게 적합"
+    }
+  },
+  "comparison_summary": {
+    "common": "두 연구실 모두 공백 연도 없이 매년 꾸준히 국제 학회에 논문을 발표하며, 기업 과제 비중도 23~24% 수준으로 안정적인 연구 기반을 갖추고 있습니다.",
+    "difference": "DIML은 외부 협업(76%)과 기업 프로젝트가 활발한 대형 랩으로 실무와 취업 연계에 강점을 보이는 반면, CV Lab은 탑티어 논문 비중(80%)과 1저자 성과율이 높은 소수 정예 랩으로 학술 연구와 박사 진학에 특화되어 있습니다.",
+    "check_questions": [
+      {
+        "target": "DIML",
+        "question": "연구실의 외부 기관 및 기업 공저 비율이 76%로 매우 활발한데, 석사 신입생도 첫 학기부터 산학 프로젝트에 바로 투입되는 구조인지 궁금합니다."
+      },
+      {
+        "target": "CV Lab",
+        "question": "발표 논문의 80%가 탑티어 학회에 집중되어 있는데, 신입생의 첫 연구 주제 선정 시 메이저 학회 제출을 기본 전제로 잡고 시작하는지 여쭙고 싶습니다."
+      }
+    ]
+  }
+}
