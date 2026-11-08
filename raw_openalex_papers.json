@@ -1,0 +1,468 @@
+{
+  "DIML": {
+    "name": "연세대학교 디지털영상미디어 연구실 (DIML)",
+    "professor": "손광훈 교수",
+    "institution": "Yonsei University",
+    "papers": [
+      {
+        "title": "3D Scene Reconstruction via Transformer",
+        "year": 2021,
+        "venue": "CVPR",
+        "authors": [
+          "A",
+          "B",
+          "C",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "NAVER",
+            "type": "company"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Signal Processing"
+        ]
+      },
+      {
+        "title": "Multi-modal Depth Estimation",
+        "year": 2021,
+        "venue": "ICCV",
+        "authors": [
+          "B",
+          "D",
+          "E",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "Samsung Electronics",
+            "type": "company"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Multimedia"
+        ]
+      },
+      {
+        "title": "Thermal Image Enhancement",
+        "year": 2021,
+        "venue": "IEEE TIP",
+        "authors": [
+          "F",
+          "G",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "KAIST",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Electrical Engineering",
+          "Signal Processing"
+        ]
+      },
+      {
+        "title": "Autonomous Driving Perception",
+        "year": 2022,
+        "venue": "ECCV",
+        "authors": [
+          "A",
+          "H",
+          "I",
+          "J",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "Hyundai Motor",
+            "type": "company"
+          }
+        ],
+        "topics": [
+          "Autonomous Driving",
+          "Computer Vision"
+        ]
+      },
+      {
+        "title": "Video Frame Interpolation",
+        "year": 2022,
+        "venue": "IEEE TCSVT",
+        "authors": [
+          "C",
+          "D",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "ETRI",
+            "type": "facility"
+          }
+        ],
+        "topics": [
+          "Multimedia",
+          "Signal Processing"
+        ]
+      },
+      {
+        "title": "Point Cloud Registration",
+        "year": 2023,
+        "venue": "CVPR",
+        "authors": [
+          "E",
+          "K",
+          "L",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "LG Electronics",
+            "type": "company"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Robotics"
+        ]
+      },
+      {
+        "title": "Low-light Object Detection",
+        "year": 2023,
+        "venue": "IEEE Access",
+        "authors": [
+          "M",
+          "N",
+          "O",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Electrical Engineering",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "title": "Cross-domain Semantic Segmentation",
+        "year": 2024,
+        "venue": "CVPR",
+        "authors": [
+          "P",
+          "Q",
+          "R",
+          "S",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "NAVER",
+            "type": "company"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "title": "Radar-Camera Sensor Fusion",
+        "year": 2024,
+        "venue": "ICRA",
+        "authors": [
+          "T",
+          "U",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "Hyundai Motor",
+            "type": "company"
+          }
+        ],
+        "topics": [
+          "Autonomous Driving",
+          "Robotics"
+        ]
+      },
+      {
+        "title": "Neural Radiance Fields for Urban Scenes",
+        "year": 2025,
+        "venue": "TPAMI",
+        "authors": [
+          "P",
+          "V",
+          "W",
+          "K. Sohn"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "Seoul National University",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Artificial Intelligence"
+        ]
+      }
+    ]
+  },
+  "CVLab": {
+    "name": "연세대학교 컴퓨터비전 연구실 (CV Lab)",
+    "professor": "함범섭 교수",
+    "institution": "Yonsei University",
+    "papers": [
+      {
+        "title": "Weakly Supervised Semantic Correspondence",
+        "year": 2021,
+        "venue": "CVPR",
+        "authors": [
+          "X1",
+          "X2",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Deep Learning"
+        ]
+      },
+      {
+        "title": "Learning Dynamic Cost Volume",
+        "year": 2021,
+        "venue": "ICCV",
+        "authors": [
+          "X2",
+          "X3",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Computer Vision"
+        ]
+      },
+      {
+        "title": "Domain Generalized Segmentation",
+        "year": 2022,
+        "venue": "CVPR",
+        "authors": [
+          "X1",
+          "X4",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "Samsung Electronics",
+            "type": "company"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Deep Learning"
+        ]
+      },
+      {
+        "title": "Few-shot Dense Matching",
+        "year": 2022,
+        "venue": "ECCV",
+        "authors": [
+          "X3",
+          "X5",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Computer Vision"
+        ]
+      },
+      {
+        "title": "Diffusion-based Image Matching",
+        "year": 2023,
+        "venue": "CVPR",
+        "authors": [
+          "X4",
+          "X6",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Generative Models"
+        ]
+      },
+      {
+        "title": "Token Pruning for Vision Transformers",
+        "year": 2023,
+        "venue": "NeurIPS",
+        "authors": [
+          "X5",
+          "X7",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "Hyundai Motor",
+            "type": "company"
+          }
+        ],
+        "topics": [
+          "Deep Learning",
+          "Computer Vision"
+        ]
+      },
+      {
+        "title": "Open-vocabulary 3D Understanding",
+        "year": 2024,
+        "venue": "CVPR",
+        "authors": [
+          "X6",
+          "X8",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Deep Learning"
+        ]
+      },
+      {
+        "title": "Pattern Recognition Survey",
+        "year": 2024,
+        "venue": "Pattern Recognition",
+        "authors": [
+          "X7",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Computer Vision"
+        ]
+      },
+      {
+        "title": "Zero-shot Visual Grounding",
+        "year": 2025,
+        "venue": "ICCV",
+        "authors": [
+          "X8",
+          "X9",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          },
+          {
+            "name": "KAIST",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Computer Vision",
+          "Generative Models"
+        ]
+      },
+      {
+        "title": "Unified Representation Learning",
+        "year": 2025,
+        "venue": "TPAMI",
+        "authors": [
+          "X6",
+          "X9",
+          "B. Ham"
+        ],
+        "institutions": [
+          {
+            "name": "Yonsei University",
+            "type": "education"
+          }
+        ],
+        "topics": [
+          "Deep Learning"
+        ]
+      }
+    ]
+  }
+}
